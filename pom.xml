@@ -62,9 +62,7 @@
 	</build>
 
 	<scm>
-		<url>scm:git:https://github.com/philipsorst/xhtmlbuilder.strict.git</url>
-		<connection>scm:git:https://github.com/philipsorst/xhtmlbuilder.strict.git</connection>
-		<developerConnection>scm:git:https://github.com/philipsorst/xhtmlbuilder.strict.git</developerConnection>
+		<developerConnection>scm:git:https://github.com/dontdrinkandroot/xhtmlbuilder.strict.git</developerConnection>
 	</scm>
 
 	<dependencies>
